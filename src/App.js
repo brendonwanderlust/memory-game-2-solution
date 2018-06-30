@@ -5,7 +5,6 @@ import MemoryCard from './MemoryCard.js'
 
 class App extends Component {
 
-
   render() {
     return (
       <div className="App">
